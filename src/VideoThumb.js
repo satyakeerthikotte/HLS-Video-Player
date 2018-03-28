@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Videos.css';
 class VideoThumb extends Component {
   playSV = () =>{
     console.log('clicked:' ,  this);
@@ -25,8 +26,8 @@ class VideoThumb extends Component {
   render() {
 
     return (
-      <div className="video-list-each" onClick={this.playSV} >
-        <img src={this.props.imgSource} alt="Smiley face" width="250" height="150"></img>
+      <div id="thumb" className="video-list-each" onClick={this.playSV} >
+        <img src={this.props.imgSource} alt={this.props.imgSource} width="250" height="150"></img>
         <div className="video-title">{this.props.title}</div>
         {/*<div className="video-sub-title">{this.props.subtitle}</div>*/}
       </div>
