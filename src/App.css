@@ -1,0 +1,42 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 1.5em;
+  display: inline;
+}
+
+.App-header {
+  background-color: #222;
+  /* height: 150px; */
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  /* text-align: left; */
+  display: inline;
+  padding-left: 10px;
+}
+.App-search{
+  float: right;
+  /* width: 80%; */
+}
+.App-footer{
+  background-color: #222;
+  color: white;
+  text-align: center;
+}
+.App-footer-copyright {
+  font-size: 90%;
+  line-height: 40px;
+  text-transform: none;
+}
+.App-footer-logo{
+  height: 2.2rem;
+  margin-bottom: -0.57rem;
+  margin-top: 0.34rem;
+}

@@ -1,0 +1,29 @@
+.video-thumb{
+  margin-left: 5.6rem;
+  margin-right: 3.2rem;
+  margin-top: 1.2rem;
+  display:flex;
+  flex-direction:row;
+}
+
+.video-list{
+  margin-left: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+.video-list-each{
+  margin-bottom: 0.7rem;
+  display:flex;
+  flex-direction:row;
+}
+.video-title{
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-left: 0.5rem;
+}
+.video-main-title{
+  font-weight: 400;
+}
+.video-sub-title{
+  font-size: 0.9rem;
+  margin-top: -0.5rem;
+}
