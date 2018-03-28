@@ -4,7 +4,7 @@ In order to run the application
 * Install create-react-app globally from npm with 
   `npm install -g create-react-app`
 
-* You can you create-react-app scripts to run the application using
+* You can use create-react-app scripts to run the application using
   ### `npm start`
   Runs the app in the development mode.<br>
   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
