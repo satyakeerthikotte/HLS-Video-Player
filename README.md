@@ -1,15 +1,15 @@
 In order to run the application 
-1.There should be node npm installed in your computer. If not you could install with [link](https://docs.npmjs.com/getting-started/installing-node).
+-There should be node npm installed in your computer. If not you could install with [link](https://docs.npmjs.com/getting-started/installing-node).
 
-2.Install create-react-app globally from npm with 
+-Install create-react-app globally from npm with 
   npm install -g create-react-app
 
-3.You can you create-react-app scripts to run the application using
+-You can you create-react-app scripts to run the application using
   ### `npm start`
   Runs the app in the development mode.<br>
   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-4.You are good to go :)
+-You are good to go :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
